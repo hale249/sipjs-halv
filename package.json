@@ -2,7 +2,7 @@
   "name": "sipjs-halv",
   "version": "1.0.0",
   "description": "A package sipjs",
-  "main": "index.js",
+  "main": "sipjs.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
